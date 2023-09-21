@@ -9,7 +9,7 @@
 
 ## Output:
 
-<a ><img src="![digital clock](https://github.com/Latasharma26/Digital-Clock/assets/96385877/e2cec8e5-853d-4d3a-8ff6-767ea1bc20ff)
+<a ><img src="(https://github.com/Latasharma26/Digital-Clock/assets/96385877/e2cec8e5-853d-4d3a-8ff6-767ea1bc20ff)
 "  height="150"/></a>
 
 ## Languages used:
