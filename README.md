@@ -8,8 +8,8 @@
 🔑 Using Label widget from Tkinter and time module we retrieve system’s time.
 
 ## Output:
+![digital clock](https://github.com/Latasharma26/Digital-Clock/assets/96385877/2390f6fa-93e5-464f-a8c6-3a402b797aa3)
 
-<a ><img src="![digital clock](https://github.com/Latasharma26/Digital-Clock/assets/96385877/9f5e5f76-66fe-4928-a91f-11a84e023eaf)"  height="150"/></a>
 
 ## Languages used:
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
